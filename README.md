@@ -1,7 +1,8 @@
 # TextUtils
 
 TextUtils is a versatile text manipulation tool built with React. It provides various functionalities to transform and analyze text effortlessly.
-Visit the project website [here](https://textutilsspd.azurewebsites.net).
+
+- Visit the project website [here](https://textutilsspd.azurewebsites.net).
 
 ## Features
 
